@@ -1,4 +1,4 @@
-# vpw2 - a romhack
+# VPW2 - a romhack
 
 VPW2 - English of sorts. My idea of what an English release would've been if copyright laws didn't exist or they get more licenses.
 
