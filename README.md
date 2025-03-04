@@ -12,6 +12,8 @@ Huge thanks to freem for VPWStudio, his translation and countless other things -
 
 Thanks to krayzie2k99 for both creating move animations and letting me use them.
 
-Thanks to ragdas, SKStyles, Mongo, Ligerbusa, HIW, KKD, RetroRandy and a million more over the years who kept me caring about this stuff.
+Thanks to Adz_FullMETAL for both creating textures and letting me use them.
+
+Thanks to ragdas, SKStyles, Mongo, Ligerbusa, HIW, KKD, RetroRandy, Melonbread and a million more over the years who kept me caring about this stuff.
 
 AKI never die.
