@@ -17,3 +17,7 @@ Thanks to Adz_FullMETAL for both creating textures and letting me use them.
 Thanks to ragdas, SKStyles, Mongo, Ligerbusa, HIW, KKD, RetroRandy, Melonbread and a million more over the years who kept me caring about this stuff.
 
 AKI never die.
+
+
+
+Note: if your names seem messed up when trying the standard patch coming from a previous version, use the 'vpw2 -savemessedup.xdelta' patch.
